@@ -1,0 +1,15 @@
+C:\Users\salak301\Clase\cns_presentacion\bin\Debug\net8.0\cns_presentacion.exe
+C:\Users\salak301\Clase\cns_presentacion\bin\Debug\net8.0\cns_presentacion.deps.json
+C:\Users\salak301\Clase\cns_presentacion\bin\Debug\net8.0\cns_presentacion.runtimeconfig.json
+C:\Users\salak301\Clase\cns_presentacion\bin\Debug\net8.0\cns_presentacion.dll
+C:\Users\salak301\Clase\cns_presentacion\bin\Debug\net8.0\cns_presentacion.pdb
+C:\Users\salak301\Clase\cns_presentacion\obj\Debug\net8.0\cns_presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak301\Clase\cns_presentacion\obj\Debug\net8.0\cns_presentacion.AssemblyInfoInputs.cache
+C:\Users\salak301\Clase\cns_presentacion\obj\Debug\net8.0\cns_presentacion.AssemblyInfo.cs
+C:\Users\salak301\Clase\cns_presentacion\obj\Debug\net8.0\cns_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\salak301\Clase\cns_presentacion\obj\Debug\net8.0\cns_presentacion.sourcelink.json
+C:\Users\salak301\Clase\cns_presentacion\obj\Debug\net8.0\cns_presentacion.dll
+C:\Users\salak301\Clase\cns_presentacion\obj\Debug\net8.0\refint\cns_presentacion.dll
+C:\Users\salak301\Clase\cns_presentacion\obj\Debug\net8.0\cns_presentacion.pdb
+C:\Users\salak301\Clase\cns_presentacion\obj\Debug\net8.0\cns_presentacion.genruntimeconfig.cache
+C:\Users\salak301\Clase\cns_presentacion\obj\Debug\net8.0\ref\cns_presentacion.dll

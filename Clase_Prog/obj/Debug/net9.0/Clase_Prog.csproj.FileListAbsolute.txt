@@ -1,0 +1,15 @@
+C:\Users\Usuario\Clase_Programacion\Clase_Prog\bin\Debug\net9.0\Clase_Prog.exe
+C:\Users\Usuario\Clase_Programacion\Clase_Prog\bin\Debug\net9.0\Clase_Prog.deps.json
+C:\Users\Usuario\Clase_Programacion\Clase_Prog\bin\Debug\net9.0\Clase_Prog.runtimeconfig.json
+C:\Users\Usuario\Clase_Programacion\Clase_Prog\bin\Debug\net9.0\Clase_Prog.dll
+C:\Users\Usuario\Clase_Programacion\Clase_Prog\bin\Debug\net9.0\Clase_Prog.pdb
+C:\Users\Usuario\Clase_Programacion\Clase_Prog\obj\Debug\net9.0\Clase_Prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Clase_Programacion\Clase_Prog\obj\Debug\net9.0\Clase_Prog.AssemblyInfoInputs.cache
+C:\Users\Usuario\Clase_Programacion\Clase_Prog\obj\Debug\net9.0\Clase_Prog.AssemblyInfo.cs
+C:\Users\Usuario\Clase_Programacion\Clase_Prog\obj\Debug\net9.0\Clase_Prog.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Clase_Programacion\Clase_Prog\obj\Debug\net9.0\Clase_Prog.sourcelink.json
+C:\Users\Usuario\Clase_Programacion\Clase_Prog\obj\Debug\net9.0\Clase_Prog.dll
+C:\Users\Usuario\Clase_Programacion\Clase_Prog\obj\Debug\net9.0\refint\Clase_Prog.dll
+C:\Users\Usuario\Clase_Programacion\Clase_Prog\obj\Debug\net9.0\Clase_Prog.pdb
+C:\Users\Usuario\Clase_Programacion\Clase_Prog\obj\Debug\net9.0\Clase_Prog.genruntimeconfig.cache
+C:\Users\Usuario\Clase_Programacion\Clase_Prog\obj\Debug\net9.0\ref\Clase_Prog.dll

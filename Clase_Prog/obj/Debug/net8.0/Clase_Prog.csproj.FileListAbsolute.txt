@@ -1,0 +1,15 @@
+C:\Users\salak301\Clase_Programacion\Clase_Prog\bin\Debug\net8.0\Clase_Prog.exe
+C:\Users\salak301\Clase_Programacion\Clase_Prog\bin\Debug\net8.0\Clase_Prog.deps.json
+C:\Users\salak301\Clase_Programacion\Clase_Prog\bin\Debug\net8.0\Clase_Prog.runtimeconfig.json
+C:\Users\salak301\Clase_Programacion\Clase_Prog\bin\Debug\net8.0\Clase_Prog.dll
+C:\Users\salak301\Clase_Programacion\Clase_Prog\bin\Debug\net8.0\Clase_Prog.pdb
+C:\Users\salak301\Clase_Programacion\Clase_Prog\obj\Debug\net8.0\Clase_Prog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salak301\Clase_Programacion\Clase_Prog\obj\Debug\net8.0\Clase_Prog.AssemblyInfoInputs.cache
+C:\Users\salak301\Clase_Programacion\Clase_Prog\obj\Debug\net8.0\Clase_Prog.AssemblyInfo.cs
+C:\Users\salak301\Clase_Programacion\Clase_Prog\obj\Debug\net8.0\Clase_Prog.csproj.CoreCompileInputs.cache
+C:\Users\salak301\Clase_Programacion\Clase_Prog\obj\Debug\net8.0\Clase_Prog.sourcelink.json
+C:\Users\salak301\Clase_Programacion\Clase_Prog\obj\Debug\net8.0\Clase_Prog.dll
+C:\Users\salak301\Clase_Programacion\Clase_Prog\obj\Debug\net8.0\refint\Clase_Prog.dll
+C:\Users\salak301\Clase_Programacion\Clase_Prog\obj\Debug\net8.0\Clase_Prog.pdb
+C:\Users\salak301\Clase_Programacion\Clase_Prog\obj\Debug\net8.0\Clase_Prog.genruntimeconfig.cache
+C:\Users\salak301\Clase_Programacion\Clase_Prog\obj\Debug\net8.0\ref\Clase_Prog.dll

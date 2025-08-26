@@ -30,6 +30,7 @@ public class Estados
 {
     public int Id;
     public string? Nombre;
+    public List<Personas>? Personas;
 }
 
 public class VideoJuegos
@@ -49,7 +50,27 @@ public class Personas
     public List<VideoJuegos>? VideoJuegos;
 }
 
-public class Estudiantes : Personas
+public interface IEstudiantes
+{
+    bool Matricula();
+}
+
+public interface ISeguros
+{
+    decimal SeguroDeVida(string nombre);
+}
+
+public class Estudiantes : Personas, IEstudiantes, ISeguros
 {
     public string? Carnet;
+
+    public bool Matricula()
+    {
+        return true;
+    }
+
+    public decimal SeguroDeVida(string nombre)
+    {
+        return 0.0m;
+    }
 }
